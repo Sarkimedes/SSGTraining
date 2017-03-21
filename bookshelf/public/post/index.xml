@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Roberts Book Reviews </title>
+    <link>http://example.org/post/index.xml</link>
+    <language>en-us</language>
+    <author>Peter Roberts</author>
+    <rights>(C) 2017</rights>
+    <updated>2017-03-06 15:33:38 &#43;0000 UTC</updated>
+
+    
+      
+        <item>
+          <title>50 Shades of Ninja</title>
+          <link>http://example.org/post/50-shades-of-ninja/</link>
+          <pubDate>Mon, 06 Mar 2017 15:33:38 UTC</pubDate>
+          <author>Peter Roberts</author>
+          <guid>http://example.org/post/50-shades-of-ninja/</guid>
+          <description>&lt;p&gt;This is a good book with many ninjas. However, the ninjas all wore black. 0/5 as this is fewer shades than promised.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+      
+        <item>
+          <title>Wuthering Heights</title>
+          <link>http://example.org/post/wuthering-heights/</link>
+          <pubDate>Sun, 05 Feb 2017 15:33:38 UTC</pubDate>
+          <author>Peter Roberts</author>
+          <guid>http://example.org/post/wuthering-heights/</guid>
+          <description>&lt;p&gt;I read &lt;strong&gt;Wuthering Heights&lt;/strong&gt; in January 2017. It does not have enough ninjas.&lt;/p&gt;
+
+&lt;p&gt;0/5; needs more ninjas.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
